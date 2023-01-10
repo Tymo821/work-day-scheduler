@@ -22,9 +22,9 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Deployed Url
-[ ](https://tymo821.github.io/work-day-scheduler/)
+(https://tymo821.github.io/work-day-scheduler/)
 ## Github Url
-[ ](https://github.com/Tymo821/work-day-scheduler)
+(https://github.com/Tymo821/work-day-scheduler)
 
 ## Screenshot of deployed webpage
 ![Screenshot 2023-01-09 at 7 55 54 PM](https://user-images.githubusercontent.com/93955240/211438066-a338894d-9228-4b41-8ad3-b24910711d8b.png)
